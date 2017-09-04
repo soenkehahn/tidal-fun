@@ -1,0 +1,10 @@
+name: tidal-fun
+
+executables:
+  tidal-fun:
+    main: Main.hs
+    source-dirs:
+      - src
+    dependencies:
+      - base
+      - tidal
